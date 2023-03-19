@@ -1,4 +1,4 @@
-# M5PaperMultiDimmerSwitch
+# KeyboardMultiDimmerSwitch
 [![PlatformIO Build Test](https://github.com/Ry0/KeyboardMultiDimmerSwitch/actions/workflows/build-test.yaml/badge.svg)](https://github.com/Ry0/KeyboardMultiDimmerSwitch/actions/workflows/build-test.yaml)
 
 ![img](image/homekit-badge.png)
@@ -7,8 +7,9 @@ Multiple programmable switches for HomeKit using ESP32 Development Board and USB
  
 ## DEMO
 
+https://user-images.githubusercontent.com/8924325/226153742-54b33338-8065-445a-ac87-b28891a16dbf.mp4
 
-# Features
+## Features
 
 * You can define many buttons by preparing your favorite keyboard.
 * The device alone can work as a HomeKit accessory. (No need for Homebridge, etc.)
@@ -85,8 +86,8 @@ const char *password = "password";
 Build it by the PlatformIO.
  
 ## Usage
- 
 
+https://user-images.githubusercontent.com/8924325/226153786-73062aa0-91b5-4803-92ab-7e18d006492b.mp4
  
 ## License
  
